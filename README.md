@@ -6,7 +6,7 @@
   <a href="https://github.com/syafikbarda60">
     <img src="https://img.shields.io/badge/GitHub-syafikbarda60-00D4AA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/syafikbarda">
+  <a href="https://www.linkedin.com/in/syafik-barda-7077573ab/">
     <img src="https://img.shields.io/badge/LinkedIn-Syafik+Barda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:syafikbarda60@gmail.com">
