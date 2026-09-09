@@ -99,20 +99,35 @@ focus: "Full-Stack Web | Backend Systems | IoT & Embedded | ML Engineering"
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=syafikbarda60&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syafikbarda60&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" alt="Top Languages" />
+  <a href="https://github.com/syafikbarda60?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-28-00D4AA?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+  <a href="https://github.com/syafikbarda60?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-142-00D4AA?style=for-the-badge&logo=star&logoColor=white" alt="Stars" />
+  </a>
+  <a href="https://github.com/syafikbarda60?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-47-00D4AA?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+  </a>
+  <a href="https://github.com/syafikbarda60?tab=following">
+    <img src="https://img.shields.io/badge/Following-12-00D4AA?style=for-the-badge&logo=github&logoColor=white" alt="Following" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syafikbarda60&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syafikbarda60&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=1a1b27&title_color=00D4AA&text_color=c0caf5" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syafikbarda60&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" alt="GitHub Streak" />
 </p>
 
 <details>
-<summary><strong>📈 Stats not loading? Click here for direct links</strong></summary>
+<summary><strong>📈 Full stats & activity</strong></summary>
 
-- [General Stats](https://github-readme-stats.vercel.app/api?username=syafikbarda60&show_icons=true&theme=tokyonight&hide_border=true)
-- [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syafikbarda60&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
-- [Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=syafikbarda60&theme=tokyonight&hide_border=true)
+- [General Stats](https://github-readme-stats.vercel.app/api?username=syafikbarda60&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D4AA&text_color=c0caf5)
+- [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syafikbarda60&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=1a1b27&title_color=00D4AA&text_color=c0caf5)
+- [Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=syafikbarda60&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA)
+- [Contribution Graph](https://ghchart.rshah.org/syafikbarda60)
 
 </details>
 
