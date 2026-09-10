@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-**Computer Engineering undergraduate at Diponegoro University (UNDIP)** with a **3.85/4.0 GPA**, specializing in **full-stack web architectures, backend systems, and IoT telemetry engineering**. I build systems that bridge hardware and the web — from real-time proctoring platforms and agricultural sensor networks to motion-template editors and maritime corporate portals.
+**Computer Engineering undergraduate at Diponegoro University (UNDIP)**, specializing in **full-stack web architectures, backend systems, and IoT telemetry engineering**. I build systems that bridge hardware and the web — from real-time proctoring platforms and agricultural sensor networks to motion-template editors and maritime corporate portals.
 
 ```yaml
 location: "Semarang, Indonesia"
@@ -93,30 +93,6 @@ focus: "Full-Stack Web | Backend Systems | IoT & Embedded | ML Engineering"
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/syafikbarda60?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-28-00D4AA?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
-  <a href="https://github.com/syafikbarda60?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-142-00D4AA?style=for-the-badge&logo=star&logoColor=white" alt="Stars" />
-  </a>
-  <a href="https://github.com/syafikbarda60?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-47-00D4AA?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
-  </a>
-  <a href="https://github.com/syafikbarda60?tab=following">
-    <img src="https://img.shields.io/badge/Following-12-00D4AA?style=for-the-badge&logo=github&logoColor=white" alt="Following" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syafikbarda60&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=1a1b27&title_color=00D4AA&text_color=c0caf5" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syafikbarda60&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" alt="GitHub Streak" />
-</p>
 
 <details>
 <summary><strong>📈 Full stats & activity</strong></summary>
