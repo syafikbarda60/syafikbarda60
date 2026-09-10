@@ -94,15 +94,6 @@ focus: "Full-Stack Web | Backend Systems | IoT & Embedded | ML Engineering"
 ---
 
 
-<details>
-<summary><strong>📈 Full stats & activity</strong></summary>
-
-- [General Stats](https://github-readme-stats.vercel.app/api?username=syafikbarda60&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D4AA&text_color=c0caf5)
-- [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syafikbarda60&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=1a1b27&title_color=00D4AA&text_color=c0caf5)
-- [Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=syafikbarda60&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA)
-- [Contribution Graph](https://ghchart.rshah.org/syafikbarda60)
-
-</details>
 
 ---
 
